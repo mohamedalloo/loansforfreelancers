@@ -331,13 +331,7 @@ const SITE = {
       "meta": "Freelancer HELOC \u00b7 Portland, OR"
     }
   ],
-  "confetti": [
-    "#4f5aa8",
-    "#7d87c9",
-    "#e9ebf7",
-    "#d4af37",
-    "#272b3f"
-  ]
+  "confetti": ["#10b981", "#34d399", "#f5b942", "#ffffff", "#1a2440"]
 };
 
 const ICONS = {
